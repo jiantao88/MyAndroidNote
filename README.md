@@ -11,3 +11,9 @@
 ## Android图片处理知识
 ### 1. Bitmap
 [Android Bitmap面面观](http://jayfeng.com/2016/03/22/Android-Bitmap%E9%9D%A2%E9%9D%A2%E8%A7%82/)
+[Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498)
+
+## Android动画
+
+## Android性能优化
+[Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)
