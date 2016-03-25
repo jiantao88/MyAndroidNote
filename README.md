@@ -21,3 +21,8 @@
 
 ## Android性能优化
 [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)
+
+## Java相关知识
+[理解Java垃圾回收机制](http://www.jayfeng.com/2016/03/11/%E7%90%86%E8%A7%A3Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
+
+[Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
