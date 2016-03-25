@@ -8,6 +8,8 @@
 ## Android网络知识
 [Android网络请求心路历程](http://www.jianshu.com/p/3141d4e46240)
 
+[移动网络下的性能优化之网络篇](https://segmentfault.com/a/1190000004561343)
+
 ## Android图片处理知识
 ### 1. Bitmap
 [Android Bitmap面面观](http://jayfeng.com/2016/03/22/Android-Bitmap%E9%9D%A2%E9%9D%A2%E8%A7%82/)
