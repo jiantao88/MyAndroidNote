@@ -19,6 +19,8 @@
 详情请看[Bitmap.recycle引发的血案](http://blog.csdn.net/eclipsexys/article/details/50581162) 但是事实上这个说法是不准确的，是不能作为recycle()方法不调用的依据的。
 因为从commit history中看，这行注释早在08年初始化代码的就有了，但是早期的代码并没有因此不需要recycle()方法了。医生说的那个bug，显然是一种优化策略，APP开发中加个两个bitmap不相等的判断条件即可。
 
+**setBackgroundResource导致内存溢出** [android 内存溢出oom错误的一些小见解](http://blog.csdn.net/xuhui_7810/article/details/9493681)
+
 ## Android动画
 
 ## Android性能优化
@@ -28,3 +30,7 @@
 [理解Java垃圾回收机制](http://www.jayfeng.com/2016/03/11/%E7%90%86%E8%A7%A3Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
 
 [Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
+
+## 设计模式
+
+[设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/structural_patterns/bridge.html)
