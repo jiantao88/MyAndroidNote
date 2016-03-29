@@ -6,6 +6,8 @@
 > * 撰写发布技术文稿
 
 ## Android网络知识
+[让你升级的网络知识](https://segmentfault.com/a/1190000004569460)
+
 [Android网络请求心路历程](http://www.jianshu.com/p/3141d4e46240)
 
 [移动网络下的性能优化之网络篇](https://segmentfault.com/a/1190000004561343)
@@ -26,6 +28,13 @@
 ## Android性能优化
 [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)
 
+[Android之内存管理及优化](http://www.jianshu.com/p/9546d21376ed)
+
+[Android 性能优化之使用MAT分析内存泄露问题](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0309/2565.html)
+## Android架构
+
+[Android 中的依赖注入框架](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/3998.html)
+
 ## Java相关知识
 [理解Java垃圾回收机制](http://www.jayfeng.com/2016/03/11/%E7%90%86%E8%A7%A3Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
 
@@ -34,3 +43,9 @@
 ## 设计模式
 
 [设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/structural_patterns/bridge.html)
+
+
+## RxJava 
+[深入浅出RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541)
+
+[RxJava应用场景：使用zip操作符等待多个网络请求完成](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0325/4080.html)
