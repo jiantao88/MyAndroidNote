@@ -24,6 +24,7 @@
 **setBackgroundResource导致内存溢出** [android 内存溢出oom错误的一些小见解](http://blog.csdn.net/xuhui_7810/article/details/9493681)
 
 ## Android动画
+[Android动画开发——Animation动画效果详解](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1113/548.html)
 
 ## Android性能优化
 [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)
