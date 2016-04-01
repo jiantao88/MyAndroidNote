@@ -50,3 +50,10 @@
 [深入浅出RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541)
 
 [RxJava应用场景：使用zip操作符等待多个网络请求完成](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0325/4080.html)
+
+## 算法
+[Java链表](http://blog.csdn.net/fightforyourdream/article/details/16353519)
+
+[各种排序算法的实现Java](http://my.oschina.net/byronhs/blog/508615)
+
+[最长回文串算法](http://blog.csdn.net/wdxin1322/article/details/12172487)
