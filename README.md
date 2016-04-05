@@ -45,6 +45,7 @@
 
 [设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/structural_patterns/bridge.html)
 
+[HashMap实现原理分析](http://yikun.github.io/2015/04/01/Java-HashMap%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AE%9E%E7%8E%B0/)
 
 ## RxJava 
 [深入浅出RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541)
