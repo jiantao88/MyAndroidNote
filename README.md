@@ -15,6 +15,7 @@
 ## Android图片处理知识
 ### 1. Bitmap
 [Android Bitmap面面观](http://jayfeng.com/2016/03/22/Android-Bitmap%E9%9D%A2%E9%9D%A2%E8%A7%82/)
+
 [Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498)
 
 **Bitmap** “在不兼容Android2.3的情况下，别在使用recycle方法来管理Bitmap了，那是GC的事！
@@ -36,6 +37,9 @@
 
 [Android 中的依赖注入框架](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/3998.html)
 
+[用Flux架构搭建Android项目ui架构这些事](http://www.jianshu.com/p/4b755df66a97)
+
+[设计模式六大原则](http://www.uml.org.cn/sjms/201211023.asp#1)
 ## Java相关知识
 [理解Java垃圾回收机制](http://www.jayfeng.com/2016/03/11/%E7%90%86%E8%A7%A3Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
 
