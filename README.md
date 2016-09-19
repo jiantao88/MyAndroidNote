@@ -25,14 +25,22 @@
 **setBackgroundResource导致内存溢出** [android 内存溢出oom错误的一些小见解](http://blog.csdn.net/xuhui_7810/article/details/9493681)
 
 ## Android动画
-[Android动画开发——Animation动画效果详解](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1113/548.html)
+[Android动画开发——Animation动画效果详解](http://www.jianshu.com/p/17dfa01f6553)
 
+## Android控件
+[lv 和 rv 的缓存比较(初稿)](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1113/548.html)
+
+[Fragment 的 View 的正确声明方式](http://www.jianshu.com/p/27576f058d8b)
+
+[Fragment你真的熟悉吗？看了才知道](http://www.jianshu.com/p/662c46cd3b5f?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
 ## Android性能优化
 [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)
 
 [Android之内存管理及优化](http://www.jianshu.com/p/9546d21376ed)
 
 [Android 性能优化之使用MAT分析内存泄露问题](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0309/2565.html)
+
+[Android性能优化典范之多线程篇](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1022&extra=page%3D1)
 ## Android架构
 
 [Android 中的依赖注入框架](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/3998.html)
@@ -44,6 +52,8 @@
 [理解Java垃圾回收机制](http://www.jayfeng.com/2016/03/11/%E7%90%86%E8%A7%A3Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
 
 [Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
+
+[Android HashMap源码详解](http://blog.csdn.net/abcdef314159/article/details/51165630)
 
 ## 设计模式
 
@@ -62,3 +72,16 @@
 [各种排序算法的实现Java](http://my.oschina.net/byronhs/blog/508615)
 
 [最长回文串算法](http://blog.csdn.net/wdxin1322/article/details/12172487)
+
+## 线程安全
+[java线程安全总结](http://jcodecraeer.com/a/chengxusheji/java/2013/0627/1396.html)
+
+## Gradle
+[maven私服搭建及gradle上传](http://www.jianshu.com/p/b1fe26d5b8c8)
+
+[使用Gradle和Nexus 搭建私有maven仓库](http://xuhao.tech/2016/08/30/maven.html?utm_source=tuicool&utm_medium=referral)
+
+## 插件化
+[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)
+
+[ZeusPlugin:掌阅Android App插件补丁实践](http://www.jianshu.com/p/b1e7b6326330)
