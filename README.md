@@ -28,7 +28,7 @@
 [Android动画开发——Animation动画效果详解](http://www.jianshu.com/p/17dfa01f6553)
 
 ## Android控件
-[lv 和 rv 的缓存比较(初稿)](http://mt08.fengjr.inc/api/v2/account/info/getAppUserCenter)
+[lv 和 rv 的缓存比较(初稿)](http://www.jianshu.com/p/17dfa01f6553)
 
 [Fragment 的 View 的正确声明方式](http://www.jianshu.com/p/27576f058d8b)
 
