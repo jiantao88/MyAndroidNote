@@ -52,6 +52,13 @@
 ## Android 系统知识
 [Android消息处理机制之Handler](http://www.iloveandroid.net/2016/06/30/Android_handler/)
 
+## Android JNI
+[JNI官方中文资料](http://yanbober.github.io/2015/02/16/android_studio_jni_2/)
+
+[JNI守护进程](http://yanbober.github.io/2015/02/16/android_studio_jni_2/)
+
+[守护进程demo](https://github.com/CharonChui/DaemonService)
+
 ## Java相关知识
 [理解Java垃圾回收机制](http://www.jayfeng.com/2016/03/11/%E7%90%86%E8%A7%A3Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
 
