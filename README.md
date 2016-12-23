@@ -59,6 +59,8 @@
 
 [守护进程demo](https://github.com/CharonChui/DaemonService)
 
+[安卓实战开发之JNI再深入了解](https://zilianliuxue.github.io/2016/08/06/%E5%AE%89%E5%8D%93%E5%AE%9E%E6%88%98%E5%BC%80%E5%8F%91%E4%B9%8BJNI%E5%86%8D%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3/)
+
 ## Java相关知识
 [理解Java垃圾回收机制](http://www.jayfeng.com/2016/03/11/%E7%90%86%E8%A7%A3Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
 
