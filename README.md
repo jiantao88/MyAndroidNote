@@ -33,6 +33,9 @@
 [Fragment 的 View 的正确声明方式](http://www.jianshu.com/p/27576f058d8b)
 
 [Fragment你真的熟悉吗？看了才知道](http://www.jianshu.com/p/662c46cd3b5f?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+
+[TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
+
 ## Android性能优化
 [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)
 
